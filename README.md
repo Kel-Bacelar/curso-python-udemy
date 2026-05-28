@@ -42,5 +42,5 @@ Abaixo estão as principais tecnologias, frameworks e conceitos de engenharia de
 
 Se você é recrutador ou desenvolvedor e quer conversar sobre o meu progresso técnico ou oportunidades de trabalho, sinta-se à vontade para entrar em contato!
 
-*   **LinkedIn:** [Kelinton Bacelar]((https://www.linkedin.com/in/kelinton-bacelar/))
+*   **LinkedIn:** ((https://www.linkedin.com/in/kelinton-bacelar/))
 *   **E-mail:** [kelintonb@gmail.com](mailto:kelintonb@gmail.com)
